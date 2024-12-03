@@ -1,7 +1,6 @@
 #make sure to includ eboth files and directories 
 
-#TODO: include a list of other files to not write tests for
-IGNORED = [
+IGNORED_FILE = [
     "app.py", 
     "config.py", 
     "errors.py", 
