@@ -13,3 +13,11 @@ class FileNodeInitError(Exception):
 class DirectoryGenerationError(Exception): 
     code = 400 
     description = "Error when generation directory"
+
+class UnitTestGenerationError(Exception): 
+    code = 400 
+    description = "Error when generating unit test" 
+
+class RefactorGenerationError(Exception): 
+    code = 400 
+    description = "Error when generating refactoring code"
