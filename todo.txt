@@ -1,3 +1,6 @@
-Open the unit test cookbook and read that
+Open the unit test cookbook and read that (need to do) 
 
-get code from gpt code refactoring
+get code from gpt code refactoring (do when get home) 
+
+See todos in the notebook experimentation.ipynb 
+
